@@ -1,4 +1,4 @@
-# Self-Taught Reasoning Meets Structured Markup  
+# Self-Taught Reasoning Gets Structured Rationales  
 *A Hybrid Approach for Movie Review Sentiment Analysis*
 
 This project explores interpretable sentiment classification using open-source language models. We combine the STaR (Self-Taught Reasoning) framework with structured rationale generation to improve classification and transparency on long movie reviews.
